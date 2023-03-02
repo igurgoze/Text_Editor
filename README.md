@@ -3,6 +3,10 @@
 ## Description
 Text editing application that can be installed and used on your desktop or use our deployed app!
 
+[Deployed App](https://fishy-fish-fish.herokuapp.com/)
+
+![screenshot](/JATE.PNG)
+
 ## Table of contents
 
 - [Installation](#Insallation)
@@ -10,8 +14,6 @@ Text editing application that can be installed and used on your desktop or use o
 - [Usage](#Usage)
 
 - [Contribution](#Contributing)
-
-- [Test](#Test)
 
 - [Questions](#Questions)
 
@@ -23,9 +25,6 @@ Click our link or use the install button in our app!
 
 ## Contributing
 Ian Gurgoze
-
-## Test
-
 
 ## Questions
 
